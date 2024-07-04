@@ -19,6 +19,7 @@
     "dayjs": "^1.9.7",
     "inquirer": "^7.1.0",
     "json2yaml": "^1.1.0",
+    "katex": "^0.16.11",
     "vuepress": "1.9.9",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
     "vuepress-plugin-baidu-tongji": "^1.0.1",
@@ -31,5 +32,8 @@
     "vuepress-plugin-zooming": "^1.1.7",
     "vuepress-theme-vdoing": "^1.12.9",
     "yamljs": "^0.3.0"
+  },
+  "dependencies": {
+    "vuepress-plugin-mathjax": "^1.2.8"
   }
 }
