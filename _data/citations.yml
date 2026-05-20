@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-20'
 papers:
   mxeaepgAAAAJ:2osOgNQ5qMEC:
     citations: 31
@@ -46,7 +46,7 @@ papers:
     title: Disentangling Temporal Evolution in Frequency Domain for Sequential Recommendation
     year: '2025'
   mxeaepgAAAAJ:qjMakFHDy7sC:
-    citations: 29
+    citations: 30
     title: Influence prediction model for marketing campaigns on e-commerce platforms
     year: '2023'
   mxeaepgAAAAJ:ufrVoPGSRksC:
