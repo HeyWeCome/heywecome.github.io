@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-27'
 papers:
   mxeaepgAAAAJ:2osOgNQ5qMEC:
     citations: 31
@@ -34,11 +34,11 @@ papers:
     title: Towards a Foundation Model for Behavioral Intention Prediction through Multi-source Data Fusion
     year: '2025'
   mxeaepgAAAAJ:_FxGoFyzp5QC:
-    citations: 18
+    citations: 20
     title: An information dissemination model based on the rumor and antirumor and cognitive game
     year: '2025'
   mxeaepgAAAAJ:eQOLeE2rZwMC:
-    citations: 25
+    citations: 26
     title: 'ImNext: Irregular interval attention and multi-task learning for next POI recommendation'
     year: '2024'
   mxeaepgAAAAJ:hqOjcs7Dif8C:
