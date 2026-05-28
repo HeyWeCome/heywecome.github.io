@@ -65,12 +65,12 @@ Hi! I am Weikang, I am currently a Ph.D. candidate at Chongqing University of Po
       <p><em>Information Fusion</em>, 127, 103799, 2026. <a href="https://doi.org/10.1016/j.inffus.2025.103799">DOI</a> | <a href="https://www.sciencedirect.com/science/article/pii/S1566253525008619">URL</a></p>
     </li>
     <li>
-      <p><strong>Disentangling Temporal Evolution in Frequency Domain for Sequential Recommendation</strong></p>
+      <p><strong>Disentangling Temporal Evolution in Frequency Domain for Sequential Recommendation <span class="pub-badge pub-badge--ccf-c">CCF C</span></strong></p>
       <p><strong>Weikang He</strong>, Yunpeng Xiao, Wanjing Zhao, Rong Wang, and Qian Li.</p>
       <p><em>IEEE Transactions on Computational Social Systems</em>, 1-17, 2025. <a href="https://doi.org/10.1109/TCSS.2025.3611999">DOI</a></p>
     </li>
     <li>
-      <p><strong>An Information Diffusion Prediction Model Aligning Multiple Propagation Intentions With Dynamic User Cognition</strong></p>
+      <p><strong>An Information Diffusion Prediction Model Aligning Multiple Propagation Intentions With Dynamic User Cognition <span class="pub-badge pub-badge--ccf-c">CCF C</span></strong></p>
       <p><strong>Weikang He</strong>, Yunpeng Xiao, Xuemei Mou, Tun Li, Rong Wang, and Qian Li.</p>
       <p><em>IEEE Transactions on Computational Social Systems</em>, 1-16, 2025. <a href="https://doi.org/10.1109/TCSS.2025.3521654">DOI</a></p>
     </li>
