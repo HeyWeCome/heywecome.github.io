@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Weikang He",
+    "label": "何玮康",
+    "email": "heywecome@gmail.com",
+    "phone": "",
+    "website": "https://heywecome.github.io",
+    "summary": "Ph.D. candidate at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof. Yunpeng Xiao. Research interests include social computing, information diffusion, information retrieval, sequential recommendation, rumor propagation modeling, multi-source data fusion, user behavior modeling, deep learning, and graph mining.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Chongqing",
+      "countryCode": "CN",
+      "region": "Chongqing"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=mxeaepgAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0002-5243-8253",
+        "url": "https://orcid.org/0000-0002-5243-8253"
+      },
+      {
+        "network": "GitHub",
+        "username": "HeyWeCome",
+        "url": "https://github.com/HeyWeCome"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "Chongqing University of Posts and Telecommunications",
+      "area": "Computer Science and Technology",
+      "studyType": "Ph.D.",
+      "startDate": "2022",
+      "endDate": "present",
+      "gpa": null,
+      "courses": [],
+      "advisor": "Prof. Yunpeng Xiao"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Social Computing",
+        "Information Diffusion",
+        "Information Retrieval",
+        "Sequential Recommendation",
+        "Rumor Propagation Modeling",
+        "Multi-source Data Fusion",
+        "User behavior modeling",
+        "Information propagation dynamics",
+        "Deep learning",
+        "Graph mining"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "Towards a foundation model for behavioral intention prediction through multi-source data fusion",
+      "publisher": "Information Fusion",
+      "releaseDate": "2026",
+      "website": "https://www.sciencedirect.com/science/article/pii/S1566253525008619",
+      "summary": "Weikang He, Yunpeng Xiao, Tun Li, Rong Wang, and Qian Li. Information Fusion, 127, 103799, 2026. DOI: https://doi.org/10.1016/j.inffus.2025.103799."
+    },
+    {
+      "name": "Disentangling Temporal Evolution in Frequency Domain for Sequential Recommendation",
+      "publisher": "IEEE Transactions on Computational Social Systems",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.1109/TCSS.2025.3611999",
+      "summary": "Weikang He, Yunpeng Xiao, Wanjing Zhao, Rong Wang, and Qian Li. IEEE Transactions on Computational Social Systems, 1-17, 2025."
+    },
+    {
+      "name": "An Information Diffusion Prediction Model Aligning Multiple Propagation Intentions With Dynamic User Cognition",
+      "publisher": "IEEE Transactions on Computational Social Systems",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.1109/TCSS.2025.3521654",
+      "summary": "Weikang He, Yunpeng Xiao, Xuemei Mou, Tun Li, Rong Wang, and Qian Li. IEEE Transactions on Computational Social Systems, 1-16, 2025."
+    },
+    {
+      "name": "Interest HD: An Interest Frame Model for Recommendation Based on HD Image Generation",
+      "publisher": "IEEE Transactions on Neural Networks and Learning Systems",
+      "releaseDate": "2024",
+      "website": "https://doi.org/10.1109/TNNLS.2023.3278673",
+      "summary": "Weikang He, Yunpeng Xiao, Tun Li, Rong Wang, and Qian Li. IEEE Transactions on Neural Networks and Learning Systems, 35(10), 14356-14369, 2024. CCF B."
+    },
+    {
+      "name": "A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation",
+      "publisher": "SIGIR 2025",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.1145/3726302.3729883",
+      "summary": "Weikang He, Yunpeng Xiao, Mengyang Huang, Xuemei Mou, Rong Wang, and Qian Li. Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, 592-601, 2025. Oral presentation, CCF A."
+    },
+    {
+      "name": "Directing Uncertainty-Aware Information Flow for Robust Diffusion Prediction",
+      "publisher": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "releaseDate": "2026",
+      "website": "https://doi.org/10.1609/aaai.v40i1.37000",
+      "summary": "Weikang He, Yunpeng Xiao, Mengyang Huang, Xuemei Mou, Rong Wang, and Qian Li. Proceedings of the AAAI Conference on Artificial Intelligence, 40(1), 381-389, 2026. Oral presentation, CCF A."
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": [],
+  "awards": [
+    {
+      "title": "Outstanding Program Committee Award",
+      "date": "2026",
+      "awarder": "AAAI 2026",
+      "summary": "Top 0.16% among 26,421 PC members."
+    },
+    {
+      "title": "National Scholarship",
+      "date": "2025",
+      "awarder": "China",
+      "summary": ""
+    },
+    {
+      "title": "National Scholarship",
+      "date": "2023",
+      "awarder": "China",
+      "summary": ""
+    }
+  ],
+  "service": [
+    {
+      "name": "Reviewer or program committee member",
+      "summary": "IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Computational Social Systems (TCSS), and AAAI."
+    },
+    {
+      "name": "Workshop Chair",
+      "summary": "Workshop on Three-way Decision, the 11th International Joint Conference on Rough Sets (IJCRS 2025)."
+    }
+  ]
+}

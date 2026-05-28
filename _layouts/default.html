@@ -1,0 +1,28 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <button class="back-to-top" id="backToTop" title="Back to Top" aria-label="Back to Top">
+      <i class="fas fa-chevron-up" aria-hidden="true"></i>
+    </button>
+
+    {% include scripts.html %}
+
+  </body>
+</html>

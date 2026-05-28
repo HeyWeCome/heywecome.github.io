@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+set -eu
+
+exec /opt/homebrew/opt/ruby/bin/bundle exec jekyll serve -l -H localhost --port 4000
