@@ -99,6 +99,6 @@ Hi! I am Weikang, I am currently a Ph.D. candidate at Chongqing University of Po
 </section>
 
 <ul class="compact-list">
-  <li>Reviewer or program committee member for <span class="service-tag">TKDE</span> <span class="service-tag">TNNLS</span> <span class="service-tag">TCSS</span> <span class="service-tag">AAAI</span></li>
+  <li>Reviewer or program committee member for <span class="service-tag">TKDE</span> <span class="service-tag">TNNLS</span> <span class="service-tag">TCSS</span> <span class="service-tag">TKDD</span> <span class="service-tag">ESWA</span> <span class="service-tag">KBS</span> <span class="service-tag">AAAI</span></li>
   <li>Session Chair, Workshop on Three-way Decision, <span class="service-tag">IJCRS 2025</span></li>
 </ul>

@@ -14,8 +14,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" class="{% unless page.url == '/' %}no-sidebar{% endunless %}" role="main">
+  {% if page.url == "/" %}
   {% include sidebar.html %}
+  {% endif %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}

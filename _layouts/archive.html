@@ -12,8 +12,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" class="{% unless page.url == '/' %}no-sidebar{% endunless %}" role="main">
+  {% if page.url == "/" %}
   {% include sidebar.html %}
+  {% endif %}
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}

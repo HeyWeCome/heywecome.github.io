@@ -27,6 +27,19 @@
   }
 }
 
+.no-sidebar {
+  .archive {
+    @include breakpoint($large) {
+      @include span(12 of 12);
+      @include prefix(0);
+      float: none;
+      max-width: 1000px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;

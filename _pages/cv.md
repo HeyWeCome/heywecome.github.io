@@ -49,5 +49,5 @@ Honors and Awards
 Academic Service
 ======
 
-* Reviewer or program committee member for IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Computational Social Systems (TCSS), and AAAI.
+* Reviewer or program committee member for IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Computational Social Systems (TCSS), ACM Transactions on Knowledge Discovery from Data (TKDD), Expert Systems with Applications (ESWA), Knowledge-Based Systems (KBS), and AAAI.
 * Chair, Workshop on Three-way Decision, the 11th International Joint Conference on Rough Sets (IJCRS 2025).

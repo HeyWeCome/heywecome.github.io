@@ -33,6 +33,19 @@
   }
 }
 
+.no-sidebar {
+  .page {
+    @include breakpoint($large) {
+      @include span(12 of 12);
+      @include prefix(0);
+      float: none;
+      max-width: 960px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
