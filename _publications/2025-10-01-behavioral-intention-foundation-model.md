@@ -1,7 +1,7 @@
 ---
 title: "Towards a foundation model for behavioral intention prediction through multi-source data fusion"
 collection: publications
-category: manuscripts
+category: first_author_journals
 permalink: /publication/2025-10-01-behavioral-intention-foundation-model
 excerpt: "Foundation model for behavioral intention prediction through multi-source data fusion."
 date: 2025-10-01
