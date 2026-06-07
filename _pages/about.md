@@ -93,11 +93,17 @@ Hi! I am Weikang, I am currently a Ph.D. candidate at Chongqing University of Po
   </div>
 </div>
 
-<div class="publication-category publication-category--collaboration">
-  <div class="publication-category__header">
-    <h3>Collaborative Publications</h3>
-    <span class="publication-category__tag">Co-author</span>
-  </div>
+<details class="publication-category publication-category--collaboration publication-category--collapsible">
+  <summary class="publication-category__summary">
+    <span class="publication-category__summary-main">
+      <span class="publication-category__summary-title">Collaborative Publications</span>
+      <span class="publication-category__tag">Co-author</span>
+      <span class="publication-category__count">7 papers</span>
+    </span>
+    <span class="publication-category__toggle" aria-hidden="true"></span>
+  </summary>
+
+  <div class="publication-category__body">
 
   <div class="publication-subsection publication-subsection--conference">
     <h4>Conference Papers</h4>
@@ -145,7 +151,8 @@ Hi! I am Weikang, I am currently a Ph.D. candidate at Chongqing University of Po
       </li>
     </ol>
   </div>
-</div>
+  </div>
+</details>
 
 <p><a href="/publications/">Full publications page</a> | <a href="https://scholar.google.com/citations?user=mxeaepgAAAAJ">Google Scholar</a></p>
 
